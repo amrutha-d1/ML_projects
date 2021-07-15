@@ -1,2 +1,2 @@
-# CourseraTest
-Coursera test repository
+#Machine learning projects
+Machine Learning Projects repository
